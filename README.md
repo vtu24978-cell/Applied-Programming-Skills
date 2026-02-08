@@ -22,6 +22,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
+| [3640-trionic-array-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
 | ------- |
