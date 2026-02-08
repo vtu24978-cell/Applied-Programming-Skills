@@ -15,6 +15,7 @@
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -55,6 +56,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
 | ------- |
