@@ -69,6 +69,7 @@
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
@@ -126,6 +128,7 @@
 | [0344-reverse-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
 | ------- |
