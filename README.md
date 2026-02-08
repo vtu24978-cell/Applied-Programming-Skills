@@ -199,4 +199,16 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
