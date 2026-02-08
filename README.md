@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -98,6 +100,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
