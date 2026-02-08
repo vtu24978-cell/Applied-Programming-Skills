@@ -8,9 +8,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
