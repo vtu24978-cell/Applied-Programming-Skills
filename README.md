@@ -54,6 +54,7 @@
 | [0234-palindrome-linked-list](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
 | ------- |
@@ -141,4 +143,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
