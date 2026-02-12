@@ -23,6 +23,7 @@
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -96,6 +97,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
@@ -269,4 +271,5 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
