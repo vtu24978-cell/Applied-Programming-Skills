@@ -112,6 +112,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
@@ -150,6 +151,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
 |  |
 | ------- |
