@@ -20,6 +20,7 @@
 | [0735-asteroid-collision](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
 ## Monotonic Queue
@@ -263,4 +265,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
