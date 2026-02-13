@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -148,6 +150,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
