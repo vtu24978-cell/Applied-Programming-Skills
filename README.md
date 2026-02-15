@@ -117,6 +117,7 @@
 | [0217-contains-duplicate](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
@@ -129,6 +130,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@
 | [0020-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
