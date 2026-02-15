@@ -162,6 +162,7 @@
 | [0020-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
@@ -300,5 +301,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
