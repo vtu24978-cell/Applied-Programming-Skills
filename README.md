@@ -203,6 +203,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
@@ -314,4 +315,8 @@
 | [0459-repeated-substring-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
