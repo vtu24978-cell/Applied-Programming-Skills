@@ -268,6 +268,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
@@ -275,12 +276,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
@@ -301,6 +304,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 ## Matrix
