@@ -59,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3634-minimum-removals-to-balance-array) |
@@ -126,6 +127,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
@@ -279,6 +281,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -290,6 +293,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -302,6 +306,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -323,6 +328,7 @@
 | [0101-symmetric-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
