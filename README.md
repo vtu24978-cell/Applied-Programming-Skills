@@ -172,6 +172,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -283,6 +284,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -297,6 +299,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -312,6 +315,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -356,4 +360,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
