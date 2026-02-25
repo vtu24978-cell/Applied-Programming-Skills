@@ -30,6 +30,7 @@
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -65,6 +66,7 @@
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3634-minimum-removals-to-balance-array) |
@@ -208,6 +210,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
@@ -379,6 +382,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
