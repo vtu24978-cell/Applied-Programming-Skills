@@ -165,6 +165,7 @@
 | [0050-powx-n](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -275,6 +276,7 @@
 | [0735-asteroid-collision](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
 ## Monotonic Queue
 |  |
@@ -383,6 +385,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
