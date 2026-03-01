@@ -191,6 +191,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
@@ -349,6 +350,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
