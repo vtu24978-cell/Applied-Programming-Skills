@@ -35,6 +35,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -375,6 +376,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## String Matching
 |  |
 | ------- |
