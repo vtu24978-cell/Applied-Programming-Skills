@@ -145,6 +145,7 @@
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
@@ -281,6 +282,7 @@
 | [0933-number-of-recent-calls](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
@@ -326,6 +328,7 @@
 | [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
+| [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +347,7 @@
 | [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
+| [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
