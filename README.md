@@ -138,6 +138,7 @@
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
@@ -192,6 +193,7 @@
 | [0796-rotate-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -270,6 +272,7 @@
 | [0641-design-circular-deque](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
