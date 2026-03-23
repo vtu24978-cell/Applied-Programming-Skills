@@ -33,6 +33,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -85,6 +86,7 @@
 | [0622-design-circular-queue](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -273,12 +276,14 @@
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -412,4 +417,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
