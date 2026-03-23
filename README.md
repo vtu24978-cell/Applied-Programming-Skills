@@ -21,6 +21,7 @@
 | [0622-design-circular-queue](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -85,6 +86,7 @@
 | [0234-palindrome-linked-list](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 ## Stack
@@ -139,6 +141,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
@@ -273,6 +276,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
@@ -421,4 +425,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
