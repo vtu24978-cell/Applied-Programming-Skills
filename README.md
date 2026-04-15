@@ -32,6 +32,7 @@
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0929-unique-email-addresses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -153,6 +154,7 @@
 | [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
+| [0929-unique-email-addresses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
@@ -213,6 +215,7 @@
 | [0721-accounts-merge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
+| [0929-unique-email-addresses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
