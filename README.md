@@ -33,6 +33,7 @@
 | [0735-asteroid-collision](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -193,6 +194,7 @@
 | [0198-house-robber](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
