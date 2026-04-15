@@ -187,6 +187,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0542-01-matrix) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
@@ -308,6 +310,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
