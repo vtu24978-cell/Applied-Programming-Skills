@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0075-sort-colors) |
@@ -501,6 +502,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
