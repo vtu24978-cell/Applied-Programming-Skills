@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0202-happy-number) |
@@ -207,6 +210,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
