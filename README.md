@@ -30,6 +30,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
@@ -144,6 +145,7 @@
 | [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
@@ -442,5 +444,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
