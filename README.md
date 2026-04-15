@@ -20,6 +20,7 @@
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
@@ -349,6 +350,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 | [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
@@ -397,12 +399,14 @@
 | [0112-path-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
@@ -446,6 +450,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
