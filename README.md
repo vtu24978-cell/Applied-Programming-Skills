@@ -189,6 +189,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0198-house-robber) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0326-power-of-three) |
@@ -540,4 +542,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
