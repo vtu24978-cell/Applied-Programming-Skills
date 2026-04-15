@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String
@@ -265,6 +267,7 @@
 | [0169-majority-element](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
@@ -421,6 +426,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
 ## Breadth-First Search
 |  |
@@ -513,4 +519,8 @@
 | [0207-course-schedule](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
