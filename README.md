@@ -57,6 +57,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
@@ -414,6 +415,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 | [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -531,6 +533,7 @@
 | [0547-number-of-provinces](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
