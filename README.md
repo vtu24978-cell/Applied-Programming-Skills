@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0075-sort-colors) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
@@ -482,6 +484,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0048-rotate-image) |
 | [0542-01-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0733-flood-fill) |
