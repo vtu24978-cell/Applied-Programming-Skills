@@ -59,6 +59,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
@@ -152,6 +153,7 @@
 | [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
