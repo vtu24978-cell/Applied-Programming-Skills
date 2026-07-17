@@ -62,6 +62,7 @@
 | [1732-find-the-highest-altitude](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3637-trionic-array-i) |
@@ -155,6 +156,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -183,6 +185,7 @@
 | [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [1763-longest-nice-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
@@ -228,6 +231,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +239,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -285,6 +290,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
@@ -572,4 +578,9 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
