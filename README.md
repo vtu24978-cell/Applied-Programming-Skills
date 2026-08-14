@@ -268,6 +268,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1763-longest-nice-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
+| [3110-score-of-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3110-score-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
