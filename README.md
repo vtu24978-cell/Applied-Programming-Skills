@@ -261,6 +261,7 @@
 | [0796-rotate-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
+| [1108-defanging-an-ip-address](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
