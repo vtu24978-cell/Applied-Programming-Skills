@@ -60,6 +60,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
@@ -267,6 +268,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1763-longest-nice-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3110-score-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
@@ -370,6 +372,7 @@
 | [0946-validate-stack-sequences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
 ## Monotonic Queue
 |  |
