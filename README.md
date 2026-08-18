@@ -178,6 +178,7 @@
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
+| [0771-jewels-and-stones](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -258,6 +259,7 @@
 | [0459-repeated-substring-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
+| [0771-jewels-and-stones](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0929-unique-email-addresses) |
