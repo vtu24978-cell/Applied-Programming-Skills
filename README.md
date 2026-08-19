@@ -63,6 +63,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
@@ -188,6 +189,7 @@
 | [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [1763-longest-nice-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3719-longest-balanced-subarray-i) |
@@ -275,6 +277,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3110-score-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
@@ -378,6 +381,7 @@
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3379-transformed-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3379-transformed-array) |
 ## Monotonic Queue
 |  |
