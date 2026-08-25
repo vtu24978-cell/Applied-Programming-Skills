@@ -61,6 +61,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -469,6 +470,7 @@
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1382-balance-a-binary-search-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search Tree
 |  |
 | ------- |
