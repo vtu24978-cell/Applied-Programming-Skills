@@ -49,6 +49,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-string-matching-in-an-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
