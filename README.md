@@ -599,4 +599,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
