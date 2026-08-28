@@ -57,6 +57,7 @@
 | [1472-design-browser-history](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -188,6 +189,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1512-number-of-good-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1512-number-of-good-pairs) |
 | [1600-throne-inheritance](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1600-throne-inheritance) |
 | [1763-longest-nice-substring](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
@@ -236,6 +238,7 @@
 | [0326-power-of-three](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
+| [1512-number-of-good-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1512-number-of-good-pairs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
@@ -301,6 +304,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vtu24978-cell/Applied-Programming-Skills/tree/master/3312-sorted-gcd-pair-queries) |
